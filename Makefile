@@ -1,3 +1,4 @@
+
 CFLAGS = -Wall -Wextra -O0 -g3
 
 all: lsort luniq
